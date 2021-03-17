@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=MainBoard\MainBoard.PrjPCB
+[Project2]
+ProjectPath=Panel1\Panel1.PrjPCB
+[Project3]
+ProjectPath=Panel2\Panel2.PrjPCB

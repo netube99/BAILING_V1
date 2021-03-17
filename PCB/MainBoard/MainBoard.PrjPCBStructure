@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Root.SchDoc
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=AMP|SchDesignator=AMP|FileName=TPA6133A2.SchDoc|SymbolType=Normal|RawFileName=TPA6133A2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=DAC|SchDesignator=DAC|FileName=ES9023.SchDoc|SymbolType=Normal|RawFileName=ES9023.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=I2S_MIC|SchDesignator=I2S_MIC|FileName=CM108B.SchDoc|SymbolType=Normal|RawFileName=CM108B.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Root.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB_Power.SchDoc|SymbolType=Normal|RawFileName=USB_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
