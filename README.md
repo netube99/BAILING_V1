@@ -7,3 +7,9 @@
 * CTIA标准3.5mm麦克风输入
 * 142mW@16Ω 耳机驱动能力
 * 内置ES9023 DAC + TPA6133A2 耳机放大器
+
+## 成品展示
+
+![PCB](./Datasheet/成品图/PCB特写.jpg)
+
+![PCB](./Datasheet/成品图/成品.jpg)
